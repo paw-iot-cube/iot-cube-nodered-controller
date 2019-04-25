@@ -2,7 +2,10 @@
     "name": "IoT-Cube-Controller",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-dashboard": "2.14.0",
+        "node-red-contrib-uibuilder": "1.2.5"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_raspberrypi.json",
