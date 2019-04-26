@@ -1,7 +1,6 @@
-IoT-Cube-Controller
+IoT-Cube-Controller (Node-Red)
 ===================
 
 ### About
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+This is the brain of the IoT-Cube, the controller where all MQTT messages are processed and the web overlay is built.
