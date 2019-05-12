@@ -3,7 +3,8 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-contrib-uibuilder": "1.2.5"
+        "node-red-contrib-uibuilder": "1.2.5",
+        "node-red-node-sqlite": "0.3.6"
     },
     "node-red": {
         "settings": {
